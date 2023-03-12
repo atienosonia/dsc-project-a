@@ -30,17 +30,14 @@ We only used one dataset to generate insights. You can find the dataset followin
 
 # First visualization representing Historical Foreign Trends in the film industry 
 
-![Alt text](../index1.png)
+![Alt text](index1.png)
 
 
 
 # Second visulaization  representing Historical Domestic Trends in the film industry
 
-<img
-  src="C:\Users\user\Downloads\index2"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![Alt text](../index2.png)
+
 
 # Third visualization representing top most studios in the Foreign Market
 
