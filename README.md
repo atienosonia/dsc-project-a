@@ -13,7 +13,7 @@ Microsoft is looking to join in the film industry and they want to know what typ
 
 We only used one dataset to generate insights. You can find the dataset following the link :
 
-* [Box Office Mojo](https://www.boxofficemojo.com/)
+* [Bom Movies](https://bom.movie_gross.csv.gz/)
 
 ### Description of Data
 - The dataset used was a comma separated file. The dataset contained 3387 entries and 5 features.
@@ -21,7 +21,7 @@ We only used one dataset to generate insights. You can find the dataset followin
 - I majorly used three columns for my analysis, the studio ,domestic gross and the year column.
 - I used log to rescale and treat my outliers which is crucial when part of the dataset is important
 - There is a strong positive correlation betweeen the domestic and foreign gross variables , an increase in revenue in the domestic market means an adjacent increase in the revenue market 
-- Based on the trend of the foreign and domestic gross line graph we notice the flunctuating revenue income and the market resiliency 
+- Based on the trend of the foreign and domestic gross line graph we notice the flunctuating revenue income
  
 - I assumed that the domestic and foreign gross income represent revenue sales even after rescaling the columns.
 - The outliers present in the foreign gross column were assumed to be genuine
@@ -32,37 +32,21 @@ We only used one dataset to generate insights. You can find the dataset followin
 
 ![Alt text](index1.png)
 
+# Second visualization  representing Historical Domestic Trends in the film industry
 
-
-# Second visulaization  representing Historical Domestic Trends in the film industry
-
-![Alt text](../index2.png)
-
+![Alt text](index2.png)
 
 # Third visualization representing top most studios in the Foreign Market
 
-<img
-  src="C:\Users\user\Downloads\index3"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![Alt text](index3.png)
 
 # Fourth visulaization representing top most studios in the Domestic Market
 
-<img
-  src="C:\Users\user\Downloads\index4"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![Alt text](index4.png)
 
-# Fifth visualization representing propotion of market revenue
+# Fifth Visualization representing market revenue distribution
 
-<img
-  src="C:\Users\user\Downloads\index5"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-
+![Alt text](index5.png)
 
 ### Conclusion
 
@@ -74,5 +58,4 @@ I would make the following reccomendations:
 
 - The percentage gross income of foreign market is much higher than domestic market and so I would advise microsoft to invest in foreign markets due to high profitability index
 
-- Based on the trends from the previous years , microsoft should only enter the film industry market if they only are risk takers due to the fluctuating revenue income.# Phase 1 Project 
-
+- Based on the trends from the previous years , microsoft should only enter the film industry market if they only are risk takers due to the fluctuating revenue.The flunctuating market revenue would translate to high accumulative returns .
